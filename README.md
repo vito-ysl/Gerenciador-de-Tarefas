@@ -20,7 +20,7 @@ Um simples sistema de gerenciamento de tarefas em Python que permite adicionar, 
 
 Aqui está um exemplo de como o programa funciona:
 
-![Exemplo de uso do Gerenciador de Tarefas](sua-imagem-aqui.png)
+![Exemplo de uso do Gerenciador de Tarefas](image.png)
 
 ## Pré-requisitos
 
